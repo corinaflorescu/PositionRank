@@ -12,19 +12,14 @@ $PositionRank --input_data data/KDD/docs/ --input_gold data/KDD/docs/
 
 !!! The full list of command line options is available with $PositionRank --help
 
---------------------------------
 Installation
--------------------------------
-
 cd PositionRank
 pip install -r requirements.txt
 python setup.py install
 
-----------------------------------
-Citing
-------------------------------------
-If you find PositionRank useful in your research, we ask that you cite the following paper:
 
+Citing
+If you find PositionRank useful in your research, we ask that you cite the following paper:
 
 @inproceedings{florescu2017positionrank,
   title={Positionrank: An unsupervised approach to keyphrase extraction from scholarly documents},
