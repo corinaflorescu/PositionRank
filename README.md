@@ -2,6 +2,8 @@
 
 An Unsupervised Approach to Keyphrase Extraction from Scholarly Documents
 
+## Authors
+[Corina Florescu](https://corinaflorescu.github.io/cs/) and [Cornelia Caragea](https://www.cs.uic.edu/~cornelia/)
 ### Usage
 
 ```
