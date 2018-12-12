@@ -10,9 +10,6 @@ try:
 except ImportError:
     from distutils.core import setup
 
-
-readme = open('README.rst').read()
-
 requirements = [
     'wheel>=0.23.0',
     'argparse>=1.2.1',
@@ -31,7 +28,6 @@ setup(
     name='PositionRank',
     version='1.0',
     description='PositionRank: An Unsupervised Approach to Keyphrase Extraction from Scholarly Documents',
-    long_description=readme,
     author='Corina Florescu',
     author_email='corinaflorescu@my.unt.edu',
     packages=[
